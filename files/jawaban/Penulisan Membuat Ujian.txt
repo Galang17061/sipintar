@@ -1,0 +1,12 @@
+1. Tambah Ujian
+	- Insert Pengawas Ujian (Jika Belum Ada)
+	- Insert Ujian
+	- Insert Ujian_has_pengawas
+
+2. Upadte Ujian
+	- Insert Pengawas Ujian (Jika Belum Ada)
+	- Update Ujian
+	- Insert Ujian_has_pengawas (Jika Belum Ada)
+	- Update Ujian_has_pengawas
+3. Delete Ujian
+	- Belum

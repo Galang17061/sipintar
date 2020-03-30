@@ -1,0 +1,9 @@
+1. Master Siswa OK
+2. Master Guru OK
+3. Master Pelajaran OK
+4. Master Batas Waktu Ujian OK
+5. Master Jurusan OK
+	role : Administrator
+
+1. Membuat Ujian 
+	role : Guru Pengajar

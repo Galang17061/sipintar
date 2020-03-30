@@ -1,0 +1,12 @@
+.answered{
+ background: #faa732 !important;
+ color: #fff;
+}
+
+.hide{
+ display: none;
+}
+
+.pscode-upper{
+	text-transform: uppercase !important;
+}

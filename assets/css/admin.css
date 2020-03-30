@@ -1,0 +1,68 @@
+@font-face {
+  font-family: Roboto-Regular !important;
+  src: url('../fonts/roboto/Roboto-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Roboto-Medium !important;
+  src: url('../fonts/roboto/Roboto-Medium.ttf'); 
+}
+
+@font-face {
+  font-family: Roboto-Bold !important;
+  src: url('../fonts/roboto/Roboto-Bold.ttf'); 
+}
+
+.top-menu{
+ /*background: #57b846;*/
+/* background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: linear-gradient(-135deg, #c850c0, #4158d0);*/
+ /*color: #fff;*/
+}
+
+input{
+ height: 30px !important;
+}
+
+table > tr{
+ font-family: Roboto-Medium;
+}
+
+.navbar-inner{
+ box-shadow: 2px ;
+}
+
+
+.navbar{
+ margin-bottom: 0px !important;
+}
+
+.activ_menu{
+ background: -webkit-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: -o-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: -moz-linear-gradient(-135deg, #c850c0, #4158d0);
+ background: linear-gradient(-135deg, #c850c0, #4158d0);
+}
+
+.data-content{
+ background: #08c !important;
+}
+
+span.badge{
+ color:#fff !important;
+}
+
+.btn{
+ color:#fff !important;
+}
+
+.title-content{
+ font-size: 16px;
+ color:#333 !important;
+}
+
+.title-module{
+ height: 80px;
+}
